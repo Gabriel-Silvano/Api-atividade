@@ -1,0 +1,22 @@
+{
+
+"livros"[
+{
+  "id":1,
+  "titulo" : "Mais esperto que o diabo",
+  "autor" : "Hill,Napoleon"
+},
+
+{
+  "id":2,
+  "titulo": "O Homem Mais Rico da Babilônia",
+  "autor": "Clason,George S"
+},
+
+{
+  "id":3,
+  "titulo" : "Os Segredos da Mente Milionária",
+  "autor" : "Eker,T. Harv"
+},
+
+}
