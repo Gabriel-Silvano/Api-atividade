@@ -1,6 +1,6 @@
 {
 
-"livros"[
+"livros":[
 {
   "id":1,
   "titulo" : "Mais esperto que o diabo",
@@ -18,5 +18,7 @@
   "titulo" : "Os Segredos da Mente Milionária",
   "autor" : "Eker,T. Harv"
 },
+  
+]
 
 }
